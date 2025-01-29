@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyanboy
-- 👀 I’m interested in ethical hacking and guitar
-- 🌱 I’m currently learning random stuff
-- 📫 How to reach me [@mathiasror](https://twitter.com/mathiasror)
+- 👀 I’m interested in ethical hacking, music, books & Rust
+- 🌱 I’m currently learning Rust
+- 📫 How to reach me [@mathias.rorvik.xyz](https://bsky.app/profile/mathias.rorvik.xyz)
 
 <!---
 cyanboy/cyanboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
